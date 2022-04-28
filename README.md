@@ -17,7 +17,7 @@
 </div>
 
 ### :barber: About project
-A game marketplace platform, buy and download games at wongames, API built with Strapi, PostgresSQL and GraphQL, front-end developed with NextJS and much more.
+The wongames platform is an e-commerce for PC games, the system contains a PostgresSQL database, an API developed with Strapi and the front-end developed with NextJS, in addition to several other technologies such as NextAuth, GraphQL, unit tests with Jest and React Testing Library, and also has e2e tests with the Cypress tool.
 
 
 ### :zap: Main technologies
