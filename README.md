@@ -16,7 +16,7 @@
   <img alt="gobarber" src="./assets/screenshots/screenshot-01.png" width="500" heigth="auto"/>
 </div>
 
-### :smiles: About project
+### About project
 The wongames platform is an e-commerce for PC games, the system contains a PostgresSQL database, an API developed with Strapi and the front-end developed with NextJS, in addition to several other technologies such as NextAuth, GraphQL, unit tests with Jest and React Testing Library, and also has e2e tests with the Cypress tool.
 
 
