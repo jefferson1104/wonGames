@@ -13,7 +13,7 @@
 
   
 
-  <img alt="gobarber" src="./assets/screenshots/screenshot-01.png" width="500" heigth="auto"/>
+  <img alt="wongames" src="./assets/screenshots/screenshot-01.png" width="500" heigth="auto"/>
 </div>
 
 ### About project
